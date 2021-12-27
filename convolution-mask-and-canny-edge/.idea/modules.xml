@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../.idea/Computer-vision.iml" filepath="$PROJECT_DIR$/../.idea/Computer-vision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../לימודים/תואר שני/Year 1/Computer Vision/assignments/Ex2/.idea/Ex2.iml" filepath="$PROJECT_DIR$/../../../לימודים/תואר שני/Year 1/Computer Vision/assignments/Ex2/.idea/Ex2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/convolution-mask-and-canny-edge.iml" filepath="$PROJECT_DIR$/.idea/convolution-mask-and-canny-edge.iml" />
     </modules>
   </component>
