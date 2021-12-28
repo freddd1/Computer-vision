@@ -10,13 +10,13 @@ SIFT, and RANSAC/LMedS.
 
 # Examples:
 
-**3d structure from a pair of images:**
+3d structure from a pair of images:
 
 ![Alt Text](https://github.com/freddd1/Computer-vision/blob/main/geometric-tools/images/results.png)
 
 
 
-**Edge detection:**
+Edge detection:
 
 ![Alt Text](https://github.com/freddd1/Computer-vision/blob/main/convolution-mask-and-canny-edge/images/results.png)
 
