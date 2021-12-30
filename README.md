@@ -18,7 +18,7 @@ SIFT, and RANSAC/LMedS.
 
 Change Detection:
 
-<img src="https://github.com/freddd1/Computer-vision/blob/main/change-detection-and-optical-flow/DATA/change-detection.gif" width="450" height="650" />
+<img src="https://github.com/freddd1/Computer-vision/blob/main/change-detection-and-optical-flow/DATA/change-detection.gif" width="500" height="650" />
 
 
 
